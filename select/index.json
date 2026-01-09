@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "爆笑",
+  "base_artist": "syudou",
+  "createdAt": "2026-01-09T14:25:45.775893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "爆笑",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_爆笑_syudou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "爆笑",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/02_爆笑_syudou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "爆笑",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/03_爆笑_syudou.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "爆笑 - Bakushou",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/04_爆笑_-_Bakushou_syudou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "爆笑",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_爆笑_syudou.txt"
+    }
+  ]
+}
